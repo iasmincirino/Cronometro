@@ -1,0 +1,28 @@
+body{
+    background-color: #5da7d8;
+}
+
+h1{
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.5em;
+    width: 7em;
+    border-color: white;
+    color: white;
+    border: solid;
+    border-radius: 2em;
+    background-color: #5da7d8;
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #6bb6e9;
+    color: white;
+}
