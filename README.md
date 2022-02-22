@@ -1,6 +1,6 @@
 ## Cronômetro
 
-![crono](https://user-images.githubusercontent.com/99847209/154865634-4409a7b4-98cb-4b55-b708-8b82c9516d31.gif)
+Um cronômetro simples, com as funções de "iniciar", "pausar" e "parar".
 
 ### Tecnologias usadas:
 
@@ -9,3 +9,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+###
+
+![crono](https://user-images.githubusercontent.com/99847209/154865634-4409a7b4-98cb-4b55-b708-8b82c9516d31.gif)
